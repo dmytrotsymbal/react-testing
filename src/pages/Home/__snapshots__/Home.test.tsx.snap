@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`home snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="HomePage"
+    data-testid="homePage"
+  >
+    <h1
+      class="HomeTitle"
+    >
+      UnitTest_1
+    </h1>
+    <ul>
+      <li
+        style="color: red;"
+      >
+        html
+      </li>
+      <li
+        style="color: red;"
+      >
+        css
+      </li>
+      <li
+        style="color: red;"
+      >
+        js
+      </li>
+    </ul>
+  </div>
+</DocumentFragment>
+`;

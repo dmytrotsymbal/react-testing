@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`component contains elements 1`] = `
+<input
+  placeholder="Type here"
+  type="text"
+/>
+`;
+
+exports[`component snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="TestComp"
+    data-testid="testComp"
+  >
+    <h1>
+      TestComp
+    </h1>
+    <button
+      class="btn"
+      data-testid="toggleBtn"
+    >
+      Click me!
+    </button>
+    <hr />
+    <h3
+      data-testid="valueH3Element"
+    />
+    <input
+      placeholder="Type here"
+      type="text"
+    />
+  </div>
+</DocumentFragment>
+`;
