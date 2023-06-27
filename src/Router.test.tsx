@@ -5,7 +5,7 @@ import App from './container/App/App'
 import { MemoryRouter } from 'react-router-dom'
 
 describe('Router links testing', () => {
-    test('testing usersLink', () => {
+    test('testing UsersLink', () => {
         render(
             <MemoryRouter>
                 <App />
